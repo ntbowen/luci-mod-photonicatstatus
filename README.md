@@ -1,5 +1,7 @@
 # LuCI Photonicat 状态模块
 
+<img width="1501" alt="snapshot-photonicatbar" src="https://github.com/user-attachments/assets/7b7e66bb-a3d6-4b03-aeb2-653bcc1c5f49" />
+
 ## 简介
 LuCI Photonicat 状态模块 (luci-mod-photonicatstatus) 是一个为 OpenWrt LuCI 界面提供电池电量和系统时钟指示器的软件包。目前仅支持 Photonicat 设备。
 
